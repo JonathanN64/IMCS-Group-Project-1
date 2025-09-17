@@ -31,7 +31,7 @@ In the same way, our system will learn which features of speech help classify em
 - Preprocessing techniques (e.g., ICA for source separation)  
 - Tracking emotions over time (e.g., analyzing speech in a movie scene to graph emotional shifts)  
 
-## Datasets (In folder datasets)
+## Datasets 
 We will use two publicly available emotional speech datasets:  
 
 ### 1. RAVDESS (Ryerson Audio-Visual Database of Emotional Speech and Song)  
@@ -54,7 +54,7 @@ This project uses the following datasets (not included in this repo due to size)
 - [RAVDESS Emotional Speech Audio](https://www.kaggle.com/datasets/uwrfkaggler/ravdess-emotional-speech-audio)
 - [CREMA-D](https://www.kaggle.com/datasets/ejlok1/cremad)
 
-Please download them manually and place them in the following folder structure:
+Please download them manually and place them in their respective folders *ravdess/* and *creama-d/*
 
 ## Libraries
 - Keras  
