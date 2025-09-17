@@ -54,7 +54,7 @@ This project uses the following datasets (not included in this repo due to size)
 - [RAVDESS Emotional Speech Audio](https://www.kaggle.com/datasets/uwrfkaggler/ravdess-emotional-speech-audio)
 - [CREMA-D](https://www.kaggle.com/datasets/ejlok1/cremad)
 
-Please download them manually and place them in their respective folders *ravdess/* and *creama-d/*
+Please download them manually and place them in their respective folders *ravdess/* and *crema-d/*
 
 ## Libraries
 - Keras  
