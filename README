@@ -1,3 +1,0 @@
-# Speech Emotion Recognition
-
-*Project Idea:* There is no definitive way to determine the emotions from speech. Hence, the Speech Emotion Recognition(SER) system was defined as a combination of different frameworks and works based on analyzing audio signals to identify emotions. The human brain generally separates emotions from speech by dividing speech into three parts: the acoustic, lexical, and vocal parts. We can use one or combine other parts to reach the correct emotion, but in this fun machine-learning project, we will use the acoustic part of speech, including pitch, jitter, tone, etc.
