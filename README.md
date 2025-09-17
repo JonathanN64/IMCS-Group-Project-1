@@ -49,6 +49,13 @@ We will use two publicly available emotional speech datasets:
 
 Together, these datasets provide both **quality-controlled** and **diverse** emotional speech data.
 
+## Datasets
+This project uses the following datasets (not included in this repo due to size):
+- [RAVDESS Emotional Speech Audio](https://www.kaggle.com/datasets/uwrfkaggler/ravdess-emotional-speech-audio)
+- [CREMA-D](https://www.kaggle.com/datasets/ejlok1/cremad)
+
+Please download them manually and place them in the following folder structure:
+
 ## Libraries
 - Keras  
 - TensorFlow  
